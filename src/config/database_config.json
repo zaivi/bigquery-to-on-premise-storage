@@ -1,0 +1,15 @@
+{
+    "list_datasource": [
+        {
+            "database_name": "",
+            "datasource_info": {
+                "user_name": "",
+                "password": "",
+                "hostname": "",
+                "port": "",
+                "sid": ""
+            },
+            "tables": []
+        }
+    ]
+}
